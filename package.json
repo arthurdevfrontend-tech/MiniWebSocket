@@ -1,0 +1,25 @@
+{
+  "name": "@arthurdevfrontend/miniwebsocket",
+  "version": "1.2.1",
+  "description": "Blibioteca MiniWebSocket minimalista para comunicação em tempo real",
+  "main": "js/miniwebsocket.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurdevfrontend-tech/MiniWebSocket.git"
+  },
+  "keywords": [
+    "websocket",
+    "mini",
+    "realtime",
+    "node.js"
+  ],
+  "author": "ArthurDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurdevfrontend-tech/MiniWebSocket/issues"
+  },
+  "homepage": "https://github.com/arthurdevfrontend-tech/MiniWebSocket#readme"
+}
