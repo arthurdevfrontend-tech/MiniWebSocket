@@ -1,4 +1,9 @@
 💬 MiniWebSocket 1.2.2
+
+![Version](https://img.shields.io/badge/version-1.2.1-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-orange)
+
 ---
 Um mini framework de WebSocket super leve e poderoso — agora com funções de chat estilo WhatsApp, suporte a salas, mensagens privadas, status, imagens e reconexão automática!
 ---
@@ -116,4 +121,5 @@ Desenvolvido com foco em aprendizado, simplicidade e performance.
 
 🧱 Licença
 Este projeto é de codigo aberto sob a licença MIT.
+
 Sinta-se livre para usar, modificar e contribuir! for
